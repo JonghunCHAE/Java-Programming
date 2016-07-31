@@ -11,6 +11,7 @@ public class homework1 {
 				}else{
 					int b = acode.charAt(0);
 					System.out.print(b);
+					system.out.print9("hi");
 		}
 	}
 
